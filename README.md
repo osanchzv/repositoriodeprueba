@@ -1,2 +1,2 @@
 # repositoriodeprueba
-Es de prueba
+Es de prueba para aprender a realizar cambios y comentarlos
